@@ -1,0 +1,14 @@
+{
+  "name": "My Custom Token List",
+  "logoURI": "https://bscscan.com/token/0x5B681dD2589A56a7c4dB07eD2Abb70CDA9bAdF87",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x5B681dD2589A56a7c4dB07eD2Abb70CDA9bAdF87",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://postimg.cc/PLHXvPfc"
+    }
+  ]
+}
